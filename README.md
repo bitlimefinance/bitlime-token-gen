@@ -35,3 +35,4 @@ Built-in flash loans. Lend tokens without requiring collateral as long as they'r
 ___
 ### Snapshots
 Privileged accounts will be able to store snapshots of balances that can be retrieved later.
+This can be used to safely create mechanisms based on token balances such as trustless dividends or weighted voting. In naive implementations it’s possible to perform a "double spend" attack by reusing the same balance from different accounts. By using snapshots to calculate dividends or voting power, those attacks no longer apply. It can also be used to create an efficient ERC20 forking mechanism.
