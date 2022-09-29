@@ -3,14 +3,14 @@
 #### You need a token but your not sure where to start? Use our ERC20 token generator to setup your brend new token with advanced features and customization.
 
 **Available token features:**
-- [Name and symbol setting](###-name-and-symbol-setting)
-- [Decimals setting](###-decimals-setting)
-- [Premint](###-premint)
-- [Ownership](###-ownership)
-- [Minting](###-minting)
-- [Pausing](###-pausing)
-- [Flash minting](###-flash-minting)
-- [Snapshots](###-snapshots)
+- [Name and symbol setting](###name-and-symbol-setting)
+- [Decimals setting](###decimals-setting)
+- [Premint](###premint)
+- [Ownership](###ownership)
+- [Minting](###minting)
+- [Pausing](###pausing)
+- [Flash minting](###flash-minting)
+- [Snapshots](###snapshots)
 
 ### Name and symbol setting
 Set the name and the symbol (eg. MyToken, MTK).
