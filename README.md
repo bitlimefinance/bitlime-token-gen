@@ -14,24 +14,24 @@
 
 ### Name and symbol setting
 Set the name and the symbol (eg. MyToken, MTK).
-
+___
 ### Decimals setting
 Set how many decimals to support (the standard is 18).
-
+___
 ### Premint
 Create an initial amount of tokens for the deployer.
-
+___
 ### Ownership
 Simple mechanism with a single account (deployer) authorized for all privileged actions.
-
+___
 ### Minting
 Privileged accounts will be able to create more supply.
-
+___
 ### Pausing
 Privileged accounts will be able to pause the functionality marked as whenNotPaused. Useful for emergency response.
-
+___
 ### Flash minting
 Built-in flash loans. Lend tokens without requiring collateral as long as they're returned in the same transaction.
-
+___
 ### Snapshots
 Privileged accounts will be able to store snapshots of balances that can be retrieved later.
